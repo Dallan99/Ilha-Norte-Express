@@ -2,21 +2,12 @@
 
 **Entregas rápidas e personalizadas para e-commerces e negócios locais no norte da Ilha de Florianópolis.**
 
+https://dallan99.github.io/Ilha-Norte-Express/
 ---
 
 ## 📌 Visão Geral
 
 Este projeto é o site institucional da **Ilha Norte Express**, uma startup de logística hiperlocal voltada para empresas da região norte da ilha de Santa Catarina. O objetivo é oferecer uma solução moderna, responsiva e funcional para apresentação dos serviços e captação de novos clientes.
-
----
-
-## 🔗 Acesse o Projeto
-
-Você pode visualizar o site localmente ou hospedá-lo em serviços como:
-
-- [GitHub Pages](https://pages.github.com/)
-- [Vercel](https://vercel.com/)
-- [Netlify](https://www.netlify.com/)
 
 ---
 
