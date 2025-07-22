@@ -9,13 +9,25 @@
 <body>
     <header>
         <nav class="container">
-            <a href="#" class="logo">Ilha Norte Express</a>
+            <a href="#" class="logo">
+                <img src="images/logo.png" alt="Ilha Norte Express" class="logo-img">
+                Ilha Norte Express
+            </a>
             <ul class="nav-links">
                 <li><a href="#home">Início</a></li>
                 <li><a href="#services">Serviços</a></li>
                 <li><a href="#about">Sobre</a></li>
                 <li><a href="#contact">Contato</a></li>
             </ul>
+            <button class="mobile-menu-toggle" onclick="toggleMobileMenu()">☰</button>
+            <div class="mobile-menu" id="mobileMenu">
+                <ul>
+                    <li><a href="#home" onclick="closeMobileMenu()">Início</a></li>
+                    <li><a href="#services" onclick="closeMobileMenu()">Serviços</a></li>
+                    <li><a href="#about" onclick="closeMobileMenu()">Sobre</a></li>
+                    <li><a href="#contact" onclick="closeMobileMenu()">Contato</a></li>
+                </ul>
+            </div>
         </nav>
     </header>
 
@@ -176,22 +188,21 @@
                         </div>
                     </div>
                     <div class="contact-form fade-in">
-    <h3>Entre em Contato Diretamente</h3>
-    <p style="margin-bottom: 2rem; color: #cbd5e1;">
-        Fale conosco agora mesmo via WhatsApp para um atendimento mais rápido!
-    </p>
-    <a href="https://wa.me/5519999365777?text=Olá! Gostaria de solicitar um orçamento para entregas no norte da ilha." 
-       class="btn-primary btn-full" 
-       target="_blank">
-        📱 Falar via WhatsApp
-    </a>
-    <div style="margin-top: 1rem;">
-        <a href="mailto:dallanr@gmail.com" 
-           class="btn-secondary btn-full">
-            ✉️ Enviar E-mail
-        </a>
-    </div>
-</div>
+                        <h3>Entre em Contato Diretamente</h3>
+                        <p style="margin-bottom: 2rem; color: #cbd5e1;">
+                            Fale conosco agora mesmo via WhatsApp para um atendimento mais rápido!
+                        </p>
+                        <a href="https://wa.me/5519999365777?text=Olá! Gostaria de solicitar um orçamento para entregas no norte da ilha." 
+                           class="btn-primary btn-full" 
+                           target="_blank">
+                            📱 Falar via WhatsApp
+                        </a>
+                        <div style="margin-top: 1rem;">
+                            <a href="mailto:dallanr@gmail.com" 
+                               class="btn-secondary btn-full">
+                                ✉️ Enviar E-mail
+                            </a>
+                        </div>
                     </div>
                 </div>
             </div>
