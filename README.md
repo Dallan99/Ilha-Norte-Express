@@ -10,16 +10,6 @@ Este projeto é o site institucional da **Ilha Norte Express**, uma startup de l
 
 ---
 
-## 🔗 Acesse o Projeto
-
-Você pode visualizar o site localmente ou hospedá-lo em serviços como:
-
-- [GitHub Pages](https://pages.github.com/)
-- [Vercel](https://vercel.com/)
-- [Netlify](https://www.netlify.com/)
-
----
-
 ## 🛠️ Tecnologias Utilizadas
 
 - **HTML5**: Estrutura semântica e acessível
